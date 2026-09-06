@@ -19,7 +19,7 @@
 
 I like building things with code, tinkering with low-level systems, and experimenting with reinforcement learning. Most of my time is spent writing in C++ and Python, figuring out how memory and search tools work under the hood, and building projects I find interesting.
 
-- 💻 Writing mostly **C++** and **Python**
+- 💻 Writing mostly **Python**
 - 🧠 Experimenting with reinforcement learning and neural nets
 - 🔍 Building [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) and tinkering with memory & cache mechanics in [**HemlockV2**](https://github.com/Aadrit555/HemlockV2)
 - 🌦️ Visualizing atmospheric and spatial graphs with [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs)
