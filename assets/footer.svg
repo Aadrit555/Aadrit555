@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="100%" height="100" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="footerWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7000FF" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#00BBF9" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.35" />
+    </linearGradient>
+
+    <linearGradient id="footerWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00BBF9" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#7000FF" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.7" />
+    </linearGradient>
+
+    <linearGradient id="footerWave3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5D4" />
+      <stop offset="50%" stop-color="#00BBF9" />
+      <stop offset="100%" stop-color="#7000FF" />
+    </linearGradient>
+  </defs>
+
+  <path d="M 0,65 C 200,25 400,95 600,50 C 800,10 1000,85 1200,45 L 1200,100 L 0,100 Z" fill="url(#footerWave1)" />
+  <path d="M 0,75 C 180,35 380,95 620,60 C 840,25 1020,80 1200,55 L 1200,100 L 0,100 Z" fill="url(#footerWave2)" />
+  <path d="M 0,85 C 220,50 420,100 650,75 C 870,45 1050,90 1200,70 L 1200,100 L 0,100 Z" fill="url(#footerWave3)" opacity="0.9" />
+</svg>

@@ -1,15 +1,15 @@
 <div align="center">
 
   <!-- ==================== HEADER ==================== -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,24,30&height=180&section=header&text=Aadrit&fontSize=50&fontColor=ffffff&desc=Building%20things%20in%20C%2B%2B%20%26%20Python%20%E2%80%A2%20Low-level%20systems%20%26%20ML&descSize=17&descAlignY=68&descAlign=50" alt="Aadrit Header" />
+  <img width="100%" src="./assets/header.svg" alt="Aadrit Header" />
 
   <!-- ==================== TYPING SUBTITLE ==================== -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=00F5D4&center=true&vCenter=true&width=650&height=45&lines=Building+software+in+C%2B%2B+and+Python...;Tinkering+with+low-level+systems...;Exploring+reinforcement+learning...;Always+curious+and+learning+something+new..." alt="Typing Tagline" />
 
   <br/><br/>
 
-  <!-- ==================== HERO ANIMATION (WATERMARK-FREE) ==================== -->
-  <img src="./assets/developer.gif" width="560" alt="Coding at night" style="border-radius: 8px;" />
+  <!-- ==================== HERO ANIMATION (FULL WIDTH) ==================== -->
+  <img width="100%" src="./assets/developer.gif" alt="Coding at night" style="width: 100%; border-radius: 8px;" />
 
 </div>
 
@@ -141,4 +141,4 @@ I like building things with code, tinkering with low-level systems, and experime
 <br/>
 
 <!-- ==================== FOOTER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,24,30&section=footer" alt="Footer Wave" />
+<img width="100%" src="./assets/footer.svg" alt="Footer Wave" />
