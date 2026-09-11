@@ -7,13 +7,14 @@
 
 <br/>
 
-### Hey there, I'm Aadrit 👋
+### Hey there, I'm Aadrit
 
-I write software in C++ and Python, focusing on systems programming and machine learning. Currently, I am working on multi-source information retrieval and low-level memory benchmarks.
+I build systems and machine learning software, working primarily in C++ and Python.
 
-- Experimenting with reinforcement learning and neural networks
-- Building [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) and testing memory and cache mechanics in [**HemlockV2**](https://github.com/Aadrit555/HemlockV2)
-- Visualizing atmospheric and spatial graphs with [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs)
+Currently building:
+- [SuperRAG](https://github.com/Aadrit555/SuperRAG) — multi-source retrieval pipeline for querying external document context
+- [HemlockV2](https://github.com/Aadrit555/HemlockV2) — C++ testbed for measuring cache line behavior and memory layout
+- [Weather-Model-Graphs](https://github.com/Aadrit555/Weather-Model-Graphs) — tools to construct and visualize graph representations of atmospheric datasets
 
 <br/>
 
