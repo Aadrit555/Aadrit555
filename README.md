@@ -11,7 +11,7 @@
 
 ### Hey, I'm [Aadrit](https://github.com/Aadrit555)
 
-I build software mainly in **C++** and **Python**, with a focus on low-level systems, memory performance, and reinforcement learning.
+I build software mainly in **Python**, with a focus on systems, information retrieval, and reinforcement learning.
 
 <p>
   <a href="https://github.com/Aadrit555" target="_blank">
@@ -26,7 +26,7 @@ I build software mainly in **C++** and **Python**, with a focus on low-level sys
 ### Current Focus
 
 - Building [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) — multi-source document retrieval and search pipeline.
-- Benchmarking CPU cache behavior and memory layouts in [**HemlockV2**](https://github.com/Aadrit555/HemlockV2).
+- Experimenting with memory layouts and cache mechanics in [**HemlockV2**](https://github.com/Aadrit555/HemlockV2).
 - Studying reinforcement learning policy dynamics in [**primordial-void**](https://github.com/Aadrit555/primordial-void).
 - Visualizing atmospheric and spatial datasets in [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs).
 
@@ -39,7 +39,7 @@ I build software mainly in **C++** and **Python**, with a focus on low-level sys
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,bash,linux,docker,fastapi,nodejs,postgres,redis,git,github,vscode&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,bash,linux,docker,fastapi,nodejs,postgres,redis,git,github,vscode&theme=dark" alt="Skill Icons" />
   </a>
 
 </div>
@@ -53,7 +53,7 @@ I build software mainly in **C++** and **Python**, with a focus on low-level sys
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) | Searches and answers queries across multiple document sources. | `Python` `RAG` `Search` |
-| [**HemlockV2**](https://github.com/Aadrit555/HemlockV2) | Benchmarks memory speed and CPU cache behavior in C++. | `C++` `Systems` `Memory` |
+| [**HemlockV2**](https://github.com/Aadrit555/HemlockV2) | Benchmarks memory speed and CPU cache behavior. | `Systems` `Memory` `Performance` |
 | [**primordial-void**](https://github.com/Aadrit555/primordial-void) | Experiments with reinforcement learning algorithms and policy behavior. | `Python` `PyTorch` `RL` |
 | [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs) | Graph tools to store and plot atmospheric datasets. | `Python` `Graphs` `Data Viz` |
 
