@@ -49,7 +49,7 @@
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aadrit555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aadrit555&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" />
 </div>
 
 <br/>
