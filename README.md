@@ -49,34 +49,10 @@
   </picture>
 </div>
 
-<h2>🏙️ 3D Contribution Skyline</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadrit555/Aadrit555/main/profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadrit555/Aadrit555/main/profile-3d-contrib/profile-green.svg" />
-    <img src="https://raw.githubusercontent.com/Aadrit555/Aadrit555/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Isometric Contribution Skyline" />
-  </picture>
-</div>
-
-<h2>📊 Activity &amp; Stats</h2>
-
-<div align="center">
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.vercel.app/graph?username=Aadrit555&bg_color=080B10&color=00F5D4&line=00BBF9&point=FFFFFF&area=true&area_color=00F5D4&hide_border=true" alt="Contribution Activity Graph" width="98%" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aadrit555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=Aadrit555&theme=tokyonight&hide_border=true&background=080B10&ring=00F5D4&fire=00BBF9&currStreakLabel=00F5D4&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="48%" />
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Aadrit555&color=00f5d4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aadrit555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" />
 </div>
 
 <br/>
