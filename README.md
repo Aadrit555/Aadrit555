@@ -1,28 +1,25 @@
-<h2>Hey 👋, I'm <a href="https://github.com/Aadrit555">Aadrit</a></h2>
+<h2>Hey, I'm <a href="https://github.com/Aadrit555">Aadrit</a></h2>
 
-<p>I build systems and machine learning software, working primarily in <strong>C++</strong> and <strong>Python</strong>. Exploring low-level memory mechanics, cache hierarchies, and autonomous reinforcement learning.</p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Spider-Pig" />
+
+<p>I build software mainly in <strong>C++</strong> and <strong>Python</strong>. I focus on low-level systems, memory performance, and reinforcement learning.</p>
 
 <p>
   <a href="https://github.com/Aadrit555"><img src="https://img.shields.io/badge/GitHub-Aadrit555-080B10?style=flat-square&logo=github&logoColor=00F5D4" alt="GitHub Badge"></a>
   <a href="mailto:aadrit.yks@gmail.com"><img src="https://img.shields.io/badge/Email-aadrit.yks@gmail.com-080B10?style=flat-square&logo=gmail&logoColor=00BBF9" alt="Email Badge"></a>
 </p>
 
-<p>⚡ Building systems at the boundary between intent and execution ⚡</p>
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Spider-Pig" />
-
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>Current Focus</h2>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/Aadrit555/SuperRAG"><b>SuperRAG</b></a> and <a href="https://github.com/Aadrit555/HemlockV2"><b>HemlockV2</b></a>.</li>
-  <li>🧠 Researching <strong>reinforcement learning</strong> dynamics and KL divergence in <a href="https://github.com/Aadrit555/primordial-void"><b>primordial-void</b></a>.</li>
-  <li>🌦️ Visualizing atmospheric and spatial graphs with <a href="https://github.com/Aadrit555/Weather-Model-Graphs"><b>Weather-Model-Graphs</b></a>.</li>
-  <li>⚙️ Tinkering with <strong>C++ memory layout</strong>, <strong>CPU cache hierarchies</strong>, and <strong>low-level systems</strong>.</li>
-  <li>👨‍💻 Most of my projects are open-source and available on <a href="https://github.com/Aadrit555">GitHub</a>.</li>
-  <li>💬 Ask me about <strong>C++, Python, PyTorch, RAG architectures, and Linux</strong>.</li>
+  <li>Building <a href="https://github.com/Aadrit555/SuperRAG"><b>SuperRAG</b></a> to search and retrieve context across multiple data sources.</li>
+  <li>Benchmarking CPU cache behavior and memory layouts in <a href="https://github.com/Aadrit555/HemlockV2"><b>HemlockV2</b></a>.</li>
+  <li>Studying reinforcement learning policy dynamics in <a href="https://github.com/Aadrit555/primordial-void"><b>primordial-void</b></a>.</li>
+  <li>Visualizing atmospheric and spatial datasets in <a href="https://github.com/Aadrit555/Weather-Model-Graphs"><b>Weather-Model-Graphs</b></a>.</li>
+  <li>Always open to talking about C++, Python, and systems performance.</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>Technologies</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,16 +27,16 @@
   </a>
 </p>
 
-<h2>📦 Featured Projects</h2>
+<h2>Projects</h2>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**primordial-void**](https://github.com/Aadrit555/primordial-void) | Reinforcement learning framework for analyzing policy dynamics and KL divergence across training iterations. | `Python` `PyTorch` `RL` |
-| [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) | Multi-source retrieval system that indexes, queries, and aggregates context from multiple data sources. | `Python` `RAG` `Search` |
-| [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs) | Constructs, visualizes, and stores graph representations of atmospheric datasets. | `Python` `Graphs` `Data Viz` |
-| [**HemlockV2**](https://github.com/Aadrit555/HemlockV2) | C++ testbed for measuring and analyzing memory layout and CPU cache behavior. | `C++` `Systems` `Memory` |
+| [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) | Searches and answers queries across multiple document sources. | `Python` `RAG` `Search` |
+| [**HemlockV2**](https://github.com/Aadrit555/HemlockV2) | Benchmarks memory speed and CPU cache behavior in C++. | `C++` `Systems` `Memory` |
+| [**primordial-void**](https://github.com/Aadrit555/primordial-void) | Experiments with reinforcement learning algorithms and policy behavior. | `Python` `PyTorch` `RL` |
+| [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs) | Graph tools to store and plot atmospheric datasets. | `Python` `Graphs` `Data Viz` |
 
-<h2>🐍 Contribution Snake</h2>
+<h2>Contribution Graph</h2>
 
 <div align="center">
   <picture>
@@ -49,7 +46,7 @@
   </picture>
 </div>
 
-<h2>📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Aadrit555&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" />
