@@ -6,22 +6,9 @@
       <stop offset="100%" stop-color="#080B10" />
     </linearGradient>
 
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7000FF" stop-opacity="0.35" />
-      <stop offset="50%" stop-color="#00BBF9" stop-opacity="0.4" />
-      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.35" />
-    </linearGradient>
-
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00BBF9" stop-opacity="0.6" />
-      <stop offset="50%" stop-color="#7000FF" stop-opacity="0.5" />
-      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.7" />
-    </linearGradient>
-
-    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00F5D4" />
-      <stop offset="50%" stop-color="#00BBF9" />
-      <stop offset="100%" stop-color="#7000FF" />
+      <stop offset="100%" stop-color="#00BBF9" />
     </linearGradient>
 
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -59,9 +46,9 @@
     <circle cx="1080" cy="40" r="2" />
   </g>
 
-  <path d="M 0,165 C 200,125 400,205 600,160 C 800,115 1000,195 1200,155 L 1200,230 L 0,230 Z" fill="url(#wave1)" />
-  <path d="M 0,180 C 180,140 380,215 620,175 C 840,135 1020,200 1200,170 L 1200,230 L 0,230 Z" fill="url(#wave2)" />
-  <path d="M 0,195 C 220,160 420,225 650,190 C 870,155 1050,210 1200,185 L 1200,230 L 0,230 Z" fill="url(#wave3)" opacity="0.9" filter="url(#waveGlow)" />
+  <path d="M 0,165 C 200,125 400,205 600,160 C 800,115 1000,195 1200,155 L 1200,230 L 0,230 Z" fill="url(#brandGrad)" opacity="0.35" />
+  <path d="M 0,180 C 180,140 380,215 620,175 C 840,135 1020,200 1200,170 L 1200,230 L 0,230 Z" fill="url(#brandGrad)" opacity="0.6" />
+  <path d="M 0,195 C 220,160 420,225 650,190 C 870,155 1050,210 1200,185 L 1200,230 L 0,230 Z" fill="url(#brandGrad)" opacity="0.9" filter="url(#waveGlow)" />
 
   <text x="600" y="88" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="2.5" fill="url(#textGrad)" filter="url(#glow)">Aadrit</text>
 
