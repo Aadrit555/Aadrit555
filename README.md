@@ -7,11 +7,9 @@
 
 <br/>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Spider-Pig" />
-
 ### Hey, I'm [Aadrit](https://github.com/Aadrit555)
 
-I build software mainly in **Python**, with a focus on systems, information retrieval, and reinforcement learning.
+I build software in **Python**, focusing on systems engineering, information retrieval, and reinforcement learning.
 
 <p>
   <a href="https://github.com/Aadrit555" target="_blank">
@@ -23,28 +21,14 @@ I build software mainly in **Python**, with a focus on systems, information retr
   </a>
 </p>
 
-### Current Focus
-
-- Building [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) — multi-source document retrieval and search pipeline.
-- Experimenting with memory layouts and cache mechanics in [**HemlockV2**](https://github.com/Aadrit555/HemlockV2).
-- Studying reinforcement learning policy dynamics in [**primordial-void**](https://github.com/Aadrit555/primordial-void).
-- Visualizing atmospheric and spatial datasets in [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs).
-
-<br clear="right"/>
-
 ---
 
-### Technologies
+### Current Focus
 
-<div align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,bash,linux,docker,fastapi,nodejs,postgres,redis,git,github,vscode&theme=dark" alt="Skill Icons" />
-  </a>
-
-</div>
-
-<br/>
+- Developing [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) — multi-source context retrieval and query answering.
+- Experimenting with memory layouts and cache mechanics in [**HemlockV2**](https://github.com/Aadrit555/HemlockV2).
+- Studying policy dynamics and KL divergence in [**primordial-void**](https://github.com/Aadrit555/primordial-void).
+- Visualizing atmospheric and spatial datasets in [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs).
 
 ---
 
@@ -52,12 +36,18 @@ I build software mainly in **Python**, with a focus on systems, information retr
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) | Searches and answers queries across multiple document sources. | `Python` `RAG` `Search` |
-| [**HemlockV2**](https://github.com/Aadrit555/HemlockV2) | Benchmarks memory speed and CPU cache behavior. | `Systems` `Memory` `Performance` |
-| [**primordial-void**](https://github.com/Aadrit555/primordial-void) | Experiments with reinforcement learning algorithms and policy behavior. | `Python` `PyTorch` `RL` |
-| [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs) | Graph tools to store and plot atmospheric datasets. | `Python` `Graphs` `Data Viz` |
+| [**SuperRAG**](https://github.com/Aadrit555/SuperRAG) | Multi-source retrieval tool that indexes and queries document context. | `Python` `RAG` `Search` |
+| [**HemlockV2**](https://github.com/Aadrit555/HemlockV2) | Systems testbed for analyzing memory speed and CPU cache behavior. | `Systems` `Memory` `Performance` |
+| [**primordial-void**](https://github.com/Aadrit555/primordial-void) | Reinforcement learning experiments analyzing policy behavior and training dynamics. | `Python` `PyTorch` `RL` |
+| [**Weather-Model-Graphs**](https://github.com/Aadrit555/Weather-Model-Graphs) | Tools to construct, store, and visualize graph representations of atmospheric datasets. | `Python` `Graphs` `Data Viz` |
 
-<br/>
+---
+
+### Technologies
+
+- **Languages:** Python, Bash
+- **Machine Learning & Search:** PyTorch, Information Retrieval
+- **Systems & Infrastructure:** Linux, Docker, Redis, Git
 
 ---
 
@@ -71,14 +61,12 @@ I build software mainly in **Python**, with a focus on systems, information retr
   </picture>
 </div>
 
-<br/>
-
 ---
 
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aadrit555&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadrit555&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" />
 </div>
 
 <br/>
