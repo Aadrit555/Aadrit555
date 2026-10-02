@@ -118,7 +118,7 @@ def check_readme_structure() -> list[str]:
         (re.compile(r"Hey,?\s+I'm\s+.*Aadrit", re.IGNORECASE), "Identity / Introduction"),
         (re.compile(r"Current Focus|What I'm Working On", re.IGNORECASE), "Current Focus"),
         (re.compile(r"Projects|Featured Projects", re.IGNORECASE), "Projects"),
-        (re.compile(r"Technologies|Technical Stack|Skills", re.IGNORECASE), "Technologies"),
+        (re.compile(r"Technologies|Technical Stack|Skills|Engineering Stack", re.IGNORECASE), "Technologies / Engineering Stack"),
         (re.compile(r"GitHub Overview|Activity & Metrics|Activity|Contribution", re.IGNORECASE), "GitHub Overview / Activity section"),
     ]
 
