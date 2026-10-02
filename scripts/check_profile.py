@@ -17,7 +17,6 @@ REQUIRED_FILES = [
     "README.md",
     "assets/header.svg",
     "assets/footer.svg",
-    ".github/workflows/snake.yml",
     ".github/workflows/validate-profile.yml",
     ".github/dependabot.yml",
 ]
@@ -120,7 +119,7 @@ def check_readme_structure() -> list[str]:
         (re.compile(r"Current Focus|What I'm Working On", re.IGNORECASE), "Current Focus"),
         (re.compile(r"Projects|Featured Projects", re.IGNORECASE), "Projects"),
         (re.compile(r"Technologies|Technical Stack|Skills", re.IGNORECASE), "Technologies"),
-        (re.compile(r"Contribution Graph|Contribution", re.IGNORECASE), "Contribution section"),
+        (re.compile(r"GitHub Overview|Activity & Metrics|Activity|Contribution", re.IGNORECASE), "GitHub Overview / Activity section"),
     ]
 
     for pattern, name in expected_sections:
@@ -254,3 +253,4 @@ def run_all_checks() -> bool:
 if __name__ == "__main__":
     success = run_all_checks()
     sys.exit(0 if success else 1)
+

@@ -49,24 +49,12 @@ I build software in **Python**, focusing on systems engineering, information ret
 - **Machine Learning & Search:** PyTorch, Information Retrieval
 - **Systems & Infrastructure:** Linux, Docker, Redis, Git
 
----
-
-### Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadrit555/Aadrit555/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadrit555/Aadrit555/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Aadrit555/Aadrit555/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
-  </picture>
-</div>
-
----
-
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadrit555&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" alt="Aadrit GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadrit555&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" height="175" alt="Aadrit's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadrit555&layout=compact&langs_count=5&hide_border=true&bg_color=080B10&title_color=00F5D4&text_color=94A3B8&icon_color=00BBF9" height="175" alt="Top Languages" />
 </div>
 
 <br/>
